@@ -1,4 +1,4 @@
-![Image of Jourly Logo]('./docs/assets/banner.jpg')
+![Image of Jourly Logo](https://i.imgur.com/Z8ZUoZO.jpg)
 
 # Jourly
 
